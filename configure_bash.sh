@@ -7,4 +7,5 @@ alias ipy='ipython --pylab'
 alias ipyn='ipython notebook'
 # Make bash pretty
 source $HOME/.bash_color
+set -o vi
 EOM
