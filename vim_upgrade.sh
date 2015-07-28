@@ -18,4 +18,4 @@ git clone git://github.com/tpope/vim-sensible.git $HOME/.vim/bundle/vim-sensible
 # jedi-vim (python code completion)
 # git clone --recursive https://github.com/davidhalter/jedi-vim.git $HOME/.vim/bundle/jedi-vim
 # git gutter
-git clone git://github.com/airblade/vim-gitgutter.git
+git clone git://github.com/airblade/vim-gitgutter.git $HOME/.vim/bundle/vim-gitgutter
