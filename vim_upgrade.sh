@@ -11,6 +11,7 @@ execute pathogen#infect()
 syntax on
 filetype plugin indent on
 set colorcolumn=80
+nmap gh <Plug>GitGutterNextHunk
 EOM
 # Upgrades!
 # vim-sensible
