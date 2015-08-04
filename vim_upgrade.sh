@@ -12,6 +12,7 @@ syntax on
 filetype plugin indent on
 set colorcolumn=80
 nmap gh <Plug>GitGutterNextHunk
+set shiftwidth=4
 EOM
 # Upgrades!
 # vim-sensible
