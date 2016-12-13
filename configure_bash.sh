@@ -6,6 +6,7 @@ cat <<EOM >>$FILE
 alias open='xdg-open'
 alias ipy='ipython --pylab'
 alias ipyn='ipython notebook'
+alias lh='ls -ltrh'
 # Make bash pretty
 source $HOME/.bash_color
 set -o vi
